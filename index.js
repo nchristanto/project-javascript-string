@@ -1,7 +1,8 @@
 console.log("Hello World");
 
-const name = "Brendan Eich";
+const name = "Messi";
 
 console.log(`Hello ${name}`);
+console.log(name)
 
 alert(`Hello ${name}`);
