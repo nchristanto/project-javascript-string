@@ -6,3 +6,5 @@ console.log(`Hello ${name}`);
 console.log(name)
 
 alert(`Hello ${name}`);
+alert('Hello mama'); 
+alert('test');
